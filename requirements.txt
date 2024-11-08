@@ -1,0 +1,9 @@
+streamlit==1.39.0
+python-dotenv==1.0.1
+langchain-core==0.1.53
+langchain-community==0.0.34
+transformers==4.30.0
+huggingface-hub==0.22.2
+flask==2.3.2
+transformers==4.34.0
+torch==2.0.1 
